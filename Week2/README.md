@@ -7,6 +7,6 @@
 ### 4. [First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)
 
 ## Take-home Problems
-### 1. [String to integer atoi](https://leetcode.com/problems/string-to-integer-atoi/description/)
-### 2. [Longest repeating character replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/)
+### 1. [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/)
+### 2. [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/)
 ### 3. [Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/description/)
