@@ -5,3 +5,5 @@ class Solution:
             for m in range(n+1, len(height)):
                 curr_max = max(min(height[n], height[m]) * (m-n), curr_max)
         return curr_max
+
+# Inefficent brute-force solution that times out with larger inputs
