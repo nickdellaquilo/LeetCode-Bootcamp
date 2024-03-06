@@ -10,6 +10,7 @@ https://github.com/sprihajha/NYU-Tandon-LeetCode-Bootcamp/tree/main/Week%202%3A%
 ### 3. [Ransom Note](https://leetcode.com/problems/ransom-note/description/)
 [RansomNote.py](RansomNote.py)
 ### 4. [First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)
+[FirstMissingPositive.py](FirstMissingPositive.py)
 
 ## Take-home Problems
 ### 1. [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/)
