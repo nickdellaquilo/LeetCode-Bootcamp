@@ -4,10 +4,11 @@ https://github.com/sprihajha/NYU-Tandon-LeetCode-Bootcamp/tree/main/Week%202%3A%
 
 ## Session Problems
 ### 1. [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/submissions/1195043272/)
-[My solution](LongestPalindrome.py)
+[LongestPalindrome.py](LongestPalindrome.py)
 ### 2. [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/)
-[My solution](FindAllAnagrams.py)
+[FindAllAnagrams.py](FindAllAnagrams.py)
 ### 3. [Ransom Note](https://leetcode.com/problems/ransom-note/description/)
+[RansomNote.py](RansomNote.py)
 ### 4. [First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)
 
 ## Take-home Problems
